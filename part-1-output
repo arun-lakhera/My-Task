@@ -1,0 +1,7 @@
+curl -o solution/part-1-output http://localhost:9393/raw
+
+              or
+
+
+wget -O solution/part-1-output http://localhost:9393/raw
+
